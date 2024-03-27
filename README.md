@@ -1,11 +1,11 @@
-# Hangman Game in Python
+# Jeu du Pendu en Python
 
-This project is an implementation of the hangman game in Python using an object-oriented approach.
+Ce projet est une implémentation du jeu du pendu en Python avec une approche orientée objet.
 
 ## Instructions
 
-1. Clone this repository to your machine.
-2. Make sure you have Python installed.
-3. Run `main.py` to start the game.
+1. Clonez ce dépôt sur votre machine.
+2. Assurez-vous d'avoir Python installé.
+3. Exécutez `main.py` pour démarrer le jeu.
 
-Have fun!
+Amusez-vous bien !
